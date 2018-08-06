@@ -1,0 +1,7 @@
+SilverStripe\Admin\LeftAndMain:
+  extensions:
+    - Axllent\CMSTweaks\CMSTweaks
+
+SilverStripe\CMS\Model\SiteTree:
+  extensions:
+    - Axllent\CMSTweaks\MetadataTab
